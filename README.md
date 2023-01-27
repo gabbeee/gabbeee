@@ -15,11 +15,10 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt-BR_br/android-13/)
 </div>
 
-<div  align="center"> 
+<div  align="right"> 
   <div style="display: inline_block"><br>
    <h1 align="center">Melhores Linguagens:</h1>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 </div>
-<br>
