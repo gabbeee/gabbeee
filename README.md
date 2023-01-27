@@ -16,7 +16,7 @@
 </div> 
  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<div  align="left">
+<div  align="center">
    <img align="right" height="250" alt="animeperfil2" src="https://user-images.githubusercontent.com/123766397/215206020-cd174554-357a-4a23-af3f-df54e65d77e1.gif">  ㅤㅤ   <div style="display: inline_block"><br>
     <h1 align="left">Melhores Linguagens:</h1>
     
