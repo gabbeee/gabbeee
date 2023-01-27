@@ -5,8 +5,9 @@
 </div>
 <br>
                           
-                          
-## OS que eu uso:
+<div align="center">
+<div style="display: line_block"><br>  
+OS que eu uso:
 
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/download/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0&r=1)
