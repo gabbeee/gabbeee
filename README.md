@@ -5,9 +5,8 @@
 </div>
 <br>
 
-<img align="left" height="250" alt="animeperfil" src="https://user-images.githubusercontent.com/123766397/215204318-a69a06ad-513d-4035-8f68-cddcaed510bc.gif">
-
 <div  align="center"> 
+  <img align="left" height="250" alt="animeperfil" src="https://user-images.githubusercontent.com/123766397/215204318-a69a06ad-513d-4035-8f68-cddcaed510bc.gif">
   <div style="display: inline_block"><br>
    <h1 align="center">OS que uso:</h1>
 
@@ -19,7 +18,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="left">Melhores Linguagens:</h1>
-    <img align="right" height="250" alt="animeperfil" src="https://user-images.githubusercontent.com/123766397/215206020-cd174554-357a-4a23-af3f-df54e65d77e1.gif">
+   
     
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
