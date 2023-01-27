@@ -1,4 +1,6 @@
-### Olá. Me chamo Gabriel (mais conhecido como Gabe) e seja bem vindo(a) a meu perfil.
+<div  align="center">
+  <div style="display: inline_block"><br>
+  <h1 align="center" Olá. Me chamo Gabe e seja bem vindo(a) a meu perfil. </h1>> 
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabbeee&show_icons=true&theme=transparent"/>
