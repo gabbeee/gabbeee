@@ -1,4 +1,3 @@
-<div  align="center">
   <div style="display: inline_block"><br>
   <h1 align="center" Olá. Me chamo Gabe e seja bem vindo(a) a meu perfil. </h1>> 
 
