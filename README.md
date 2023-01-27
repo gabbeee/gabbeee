@@ -17,9 +17,9 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-   <img align="right" height="250" alt="animeperfil2" src="https://user-images.githubusercontent.com/123766397/215206020-cd174554-357a-4a23-af3f-df54e65d77e1.gif">
     <h1 align="left">Melhores Linguagens:</h1>
-
+    <img align="right" height="250" alt="animeperfil" src="https://user-images.githubusercontent.com/123766397/215206020-cd174554-357a-4a23-af3f-df54e65d77e1.gif">
+    
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 </div>
