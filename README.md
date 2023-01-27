@@ -10,7 +10,7 @@
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </div><br/>
 
-Adoro mexer com tecnologia e sistemas, sempre fui aquela criança que vasculhava o computador em busca de coisas novas para fazer, sai do windows (por mais que não totalmente) agora. Adoro o Linux e sua privacidade.
+Adoro mexer com tecnologia e sistemas, sempre fui aquela criança que vasculhava o computador em busca de coisas novas para fazer. Sai do windows (por mais que não totalmente) agora, adoro o Linux e sua privacidade.
 
 ## Tecnologias que eu uso:
 
