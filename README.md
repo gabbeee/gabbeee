@@ -6,7 +6,7 @@
 <br>
 
 <div  align="center"> 
-<img align="left" alt="animeperfil" src="![perfilgithub](https://user-images.githubusercontent.com/123766397/215204318-a69a06ad-513d-4035-8f68-cddcaed510bc.gif)">
+<img align="left" alt="animeperfil" src="!https://user-images.githubusercontent.com/123766397/215204318-a69a06ad-513d-4035-8f68-cddcaed510bc.gif">
   <div style="display: inline_block"><br>
    <h1 align="center">OS que uso:</h1>
 
