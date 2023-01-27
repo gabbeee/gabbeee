@@ -5,5 +5,5 @@
 ## OS que eu uso.
 
 <div style="display: inline_block"><br/>
-  <alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img align= "left" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   </div>
