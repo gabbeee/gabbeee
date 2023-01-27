@@ -13,7 +13,7 @@ Adoro mexer com tecnologia e sistemas, sempre fui aquela criança que vasculhava
 ## Tecnologias que eu uso:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Windows](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
   
   Estou iniciando no Python fazendo alguns virus simples de computador, pretendo expandir este meu conhecimento e fazer sistemas muito maiores.
   
