@@ -6,7 +6,7 @@
 <br>
 
 <div  align="center"> 
-<img align="left" height="450" alt="animeperfil" src="https://user-images.githubusercontent.com/123766397/215204318-a69a06ad-513d-4035-8f68-cddcaed510bc.gif">
+<img align="left" height="250" alt="animeperfil" src="https://user-images.githubusercontent.com/123766397/215204318-a69a06ad-513d-4035-8f68-cddcaed510bc.gif">
   <div style="display: inline_block"><br>
    <h1 align="center">OS que uso:</h1>
 
@@ -15,7 +15,9 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt-BR_br/android-13/)
 </div>
 
-## Tecnologias que eu uso:
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+   <h1 align="center">Melhores Linguagens:</h1>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
