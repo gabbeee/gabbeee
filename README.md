@@ -1,4 +1,5 @@
 ### Olá. Me chamo Gabriel (mais conhecido como Gabe) e seja bem vindo(a) a meu perfil.
+### Olá. Me chamo Gabriel (mais conhecido como Gabe) e seja bem vindo(a) a meu perfil.
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabbeee&show_icons=true&theme=transparent"/>
@@ -17,6 +18,8 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/pt-BR_br/android-13/)
 </div>
 
+  
+  
 <div  align="left"> 
   <div style="display: inline_block"><br>
    <img align="right" height="250" alt="animeperfil" src="https://user-images.githubusercontent.com/123766397/215206020-cd174554-357a-4a23-af3f-df54e65d77e1.gif">
