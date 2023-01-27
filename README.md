@@ -19,4 +19,8 @@ Adoro mexer com tecnologia e sistemas, sempre fui aquela criança que vasculhava
   <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   </div><br/>
   
+  Estou iniciando no Python fazendo algumas virus simples de computador, pretendo expandir este meu conhecimento e fazer sistemas muito maiores
+  
+  ## Muito obrigado!
+  
   Obrigado por visitar meu perfil, esse ano eu vou por a mão na massa e postar coisas sobre minha evolução de Hacking aqui.
