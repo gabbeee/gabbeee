@@ -10,7 +10,7 @@
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   </div><br/>
 
-Adoro tecnologia, sempre fui aquela criança que vasculhava o computador em busca de coisas novas para fazer, nunca tentei Hackear algo antes mas sempre tive interesse, e neste ano planejo realmente por a mão na massa e aprender de vez sobre Hacking.
+Adoro mexer com tecnologia e sistemas, sempre fui aquela criança que vasculhava o computador em busca de coisas novas para fazer, sai do windows (por mais que não totalmente) agora. Adoro o Linux e sua privacidade.
 
 ## Tecnologias que eu uso:
 
@@ -19,4 +19,4 @@ Adoro tecnologia, sempre fui aquela criança que vasculhava o computador em busc
   <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   </div><br/>
   
-  Obrigado por visitar meu perfil. Prentendo adicionar mais coisas aqui com o tempo.
+  Obrigado por visitar meu perfil, esse ano eu vou por a mão na massa e postar coisas sobre minha evolução de Hacking aqui.
