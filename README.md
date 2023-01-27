@@ -2,8 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbeee&show_icons=true&theme=transparent)
 
-## OS que eu uso.
+## OS que eu uso:
 
 <div style="display: inline_block"><br/>
-  <alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   </div>
