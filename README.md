@@ -1,7 +1,10 @@
 ### Olá. Me chamo Gabriel (mais conhecido como Gabe) e seja bem vindo(a) a meu perfil.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbeee&show_icons=true&theme=transparent)](https://github.com/gabbeee)
-
+<div>
+<img align="center" Anurag's GitHub stats(https://github-readme-stats.vercel.app/api?username=gabbeee&show_icons=true&theme=transparent)](https://github.com/gabbeee)/>
+</div><br>
+                          
+                          
 ## OS que eu uso:
 
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/download/)
