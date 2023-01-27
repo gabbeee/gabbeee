@@ -6,7 +6,8 @@
 <br>
                           
 <div style="display: line_block"><br>  
-<div align="center" OS que uso:> 
+  <div align="center"> OS que uso: </h1>
+ 
 
 <hl align="center"
 
