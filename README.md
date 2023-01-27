@@ -4,9 +4,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabbeee&show_icons=true&theme=transparent"/>
 </div>
 <br>
-                          
-<div align="center"> OS que uso:>
-<div style="display: line_block"><br>  
+
+<div style="display: line_block"><br>                            
+<div align="center"> OS que uso:
+
 
 <hl align="center"
 
