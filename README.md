@@ -4,11 +4,7 @@
 
 ## OS que eu uso:
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  </div><br/>
+[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/download/)
 
 Adoro mexer com tecnologia e sistemas, sempre fui aquela criança que vasculhava o computador em busca de coisas novas para fazer. Sai do windows (por mais que não totalmente) agora, adoro o Linux e sua privacidade.
 
