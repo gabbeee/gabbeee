@@ -1,8 +1,9 @@
 ### Olá. Me chamo Gabriel (mais conhecido como Gabe) e seja bem vindo(a) a meu perfil.
 
 <div>
-<img align="center" src=(s://github-readme-stats.vercel.app/api?username=gabbeee&show_icons=true&theme=transparent)](https://github.com/gabbeee)/>
-</div><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabbeee&show_icons=true&theme=transparent"(https://github.com/gabbeee)/>
+</div>
+<br>
                           
                           
 ## OS que eu uso:
