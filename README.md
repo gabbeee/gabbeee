@@ -12,7 +12,3 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-
-## Muito obrigado!
-  
-  Obrigado por visitar meu perfil, esse ano eu vou por a mão na massa e postar coisas sobre minha evolução de Hacking aqui.
