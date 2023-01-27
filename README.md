@@ -5,7 +5,7 @@
 </div>
 <br>
                           
-<div align="center"> OS que uso: <3</h1>
+<div align="center"> OS que uso: 
 <div style="display: line_block"><br>  
 
 <hl align="center"
